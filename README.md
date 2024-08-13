@@ -1,6 +1,5 @@
--  Hi, I’m @velaris13
+-  Hi, I’m @yarahamdan
 - 👀 I’m interested in coding
-- I’m currently learning html
 - 📫 How to reach me yara2006hamdan@gmail.com
 
 <!---
